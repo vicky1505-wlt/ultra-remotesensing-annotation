@@ -8,6 +8,6 @@ Download Link: https://github.com/bloodbaby/ultra-remotesensing-annotation/relea
 The software is designed for own usage. Please feel free to download an EXE to use in Windows.
 Right now only support Windows 7/8/10.
 
-A strict data folder structure is uploaded in "data" folder, you can put downloaded EXE file in same folder with "data" folder.
+A strict data folder structure is uploaded in "data" folder.
 Also a few pictures and corresponding metadata , annotations have been uploaded.
 
