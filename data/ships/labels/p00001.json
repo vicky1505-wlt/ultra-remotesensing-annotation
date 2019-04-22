@@ -1,0 +1,63 @@
+{
+    "verified": "no",
+    "folder": "images",
+    "filename": "p00760",
+    "imgpath": "C:/Users/XXX/Documents/data/ships/images/p00001.jpg",
+    "source": {
+        "datasource": "sat",
+        "raw_dataname": "p00001.png",
+        "raw_roi": {
+            "x": 1,
+            "y": 1,
+            "w": 8704,
+            "h": 5632
+        }
+    },
+    "gsd": {
+        "x": 0.15,
+        "y": 0.15
+    },
+    "imageWidth": 8704,
+    "imageHeight": 5632,
+    "targets": [
+        {
+            "anno_type": "robndbox",
+            "name": "ship",
+            "truncated": 0,
+            "difficult": 0,
+            "robndbox": {
+                "cx": 3471.909,
+                "cy": 4095.5594,
+                "w": 264.4567,
+                "h": 1434.6083,
+                "angle": 5.583185
+            }
+        },
+        {
+            "anno_type": "robndbox",
+            "name": "ship",
+            "truncated": 0,
+            "difficult": 0,
+            "robndbox": {
+                "cx": 4780.5033,
+                "cy": 1119.5893,
+                "w": 226.3394,
+                "h": 1421.6654,
+                "angle": 2.43
+            }
+        },
+        {
+            "anno_type": "robndbox",
+            "name": "ship",
+            "truncated": 0,
+            "difficult": 0,
+            "robndbox": {
+                "cx": 6463.5292,
+                "cy": 3142.3957,
+                "w": 280.6274,
+                "h": 1598.2817,
+                "angle": 5.563185
+            }
+        }
+    ]
+}

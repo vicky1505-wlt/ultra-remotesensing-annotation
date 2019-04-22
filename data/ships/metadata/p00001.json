@@ -1,0 +1,36 @@
+{
+    "raw_dataname": "p00001.png",
+    "raw_roi": {
+        "x": 1,
+        "y": 1,
+        "w": 8704,
+        "h": 5632
+    },
+    "image_width": 8704,
+    "image_height": 5632,
+    "geocoord": {
+        "leftbottom": {
+            "long": 120.298576355,
+            "lat": 22.570381165
+        },
+        "lefttop": {
+            "long": 120.298576355,
+            "lat": 22.577934265
+        },
+        "righttop": {
+            "long": 120.310249329,
+            "lat": 22.577934265
+        },
+        "rightbottom": {
+            "long": 120.310249329,
+            "lat": 22.570381165
+        }
+    },
+    "gsd": {
+        "x": 0.15,
+        "y": 0.15
+    },
+    "scene": "undefined",
+    "target": "ship",
+    "data_source": "sat"
+}
