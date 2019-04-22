@@ -11,3 +11,5 @@ Right now only support Windows 7/8/10.
 A strict data folder structure is uploaded in "data" folder.
 Also a few pictures and corresponding metadata , annotations have been uploaded.
 
+first tutorial link: https://youtu.be/xpqxRRQNIuI
+
